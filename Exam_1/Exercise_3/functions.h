@@ -1,0 +1,1 @@
+void subseq(int arr[], int n, int dest[], int *new_n);
